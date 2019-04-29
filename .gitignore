@@ -3,4 +3,4 @@ pkg
 src
 *.bak
 !vendor/src
-bin/ts2str
+bin
